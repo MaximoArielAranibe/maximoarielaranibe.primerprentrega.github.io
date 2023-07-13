@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/primerpreentregareact-aranibe-github-pages/static/css/main.231784cc.css",
-    "main.js": "/primerpreentregareact-aranibe-github-pages/static/js/main.30c8c684.js",
-    "static/media/logo.png": "/primerpreentregareact-aranibe-github-pages/static/media/logo.d95b9045a7f51a819a05.png",
-    "index.html": "/primerpreentregareact-aranibe-github-pages/index.html",
-    "main.231784cc.css.map": "/primerpreentregareact-aranibe-github-pages/static/css/main.231784cc.css.map",
-    "main.30c8c684.js.map": "/primerpreentregareact-aranibe-github-pages/static/js/main.30c8c684.js.map"
+    "main.css": "/static/css/main.46a79fdc.css",
+    "main.js": "/static/js/main.e0b079a4.js",
+    "static/media/logo.png": "/static/media/logo.d95b9045a7f51a819a05.png",
+    "index.html": "/index.html",
+    "main.46a79fdc.css.map": "/static/css/main.46a79fdc.css.map",
+    "main.e0b079a4.js.map": "/static/js/main.e0b079a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.231784cc.css",
-    "static/js/main.30c8c684.js"
+    "static/css/main.46a79fdc.css",
+    "static/js/main.e0b079a4.js"
   ]
 }
